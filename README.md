@@ -1,4 +1,4 @@
-SQL QUERIES
+### SQL QUERIES ###
 
 En este repositorios encontrarás dos archivos .sql: Uno con la base de datos "Tienda" y otra llamada "Universidad".
 
